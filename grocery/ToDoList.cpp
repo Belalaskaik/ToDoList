@@ -4,13 +4,7 @@
 #include "ToDoList.hpp"
 
 
-/*
-It is your job to implement this file in its entirety. 
 
-The ToDoList.hpp file and main.cpp file have all the information you need.
-
-Good luck.
-*/
 
 //Private
 void ToDoList::_announce (std::string verb, std::string & msg){
